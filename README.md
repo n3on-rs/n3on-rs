@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>monastir, tunisia &nbsp;·&nbsp; backendglitch.com</samp>
+  <samp>tunisia &nbsp;·&nbsp; backendglitch.com</samp>
 </p>
 
 I build infrastructure that moves money, identifies people, and coordinates machines. Backend systems, computer vision, blockchain. If the problem requires writing Rust at 2am and reasoning about consensus algorithms, that is where I live.
